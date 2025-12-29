@@ -1,7 +1,6 @@
 ### Hello! 👋
 
-- 🔭 I’m currently working on VueJS & Angular
-- 🌱 I’m currently learning Go Lang and Python
-- 🤔 I’m looking for help with Open Source and CP
-- 💬 Ask me about anything
-- ⚡ My hobby is Travelling & Badminton
+- 💻 Currently working with JavaScript, TypeScript, Vue.js, and React
+- 🖱️ Learning and building with Go and GraphQL
+- 🙋 Happy to support open-source work and CP(Community Projects & Client Projects). 
+- 💬 Ask me about travelling, badminton and finance
